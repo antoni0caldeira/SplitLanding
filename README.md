@@ -1,3 +1,3 @@
-# BoilerPlate
+# Split Landing
 
-Boilerplate code for HTML projects
+HTML project Split Pages
